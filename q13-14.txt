@@ -1,0 +1,78 @@
+-- Create the database
+CREATE DATABASE PharmacySystem;
+USE PharmacySystem;
+
+-- Table for Admin Login
+CREATE TABLE Admin (
+    Admin_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Username VARCHAR(50) NOT NULL UNIQUE,
+    Password VARCHAR(255) NOT NULL
+);
+
+-- Table for Medicines
+CREATE TABLE Medicine (
+    Med_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Brand_Name VARCHAR(100) NOT NULL,
+    Generic_Name VARCHAR(100) NOT NULL,
+    Description TEXT,
+    Barcode VARCHAR(50) UNIQUE,
+    Quantity INT NOT NULL,
+    Price DECIMAL(10, 2) NOT NULL,
+    Date_Arrived DATE NOT NULL,
+    Date_Expiry DATE NOT NULL,
+    Category VARCHAR(50) -- Optional for future expansion
+);
+
+-- Table for Inventory Control (Min and Max Stock)
+CREATE TABLE Inventory (
+    Med_ID INT PRIMARY KEY,
+    Min_Stock_Level INT DEFAULT 10,
+    Max_Stock_Level INT DEFAULT 500,
+    FOREIGN KEY (Med_ID) REFERENCES Medicine(Med_ID) ON DELETE CASCADE
+);
+
+-- Table for Pharmacists (Authorized Users who sell medicine)
+CREATE TABLE Pharmacist (
+    Pharmacist_ID INT PRIMARY KEY AUTO_INCREMENT,
+    FName VARCHAR(100) NOT NULL,
+    LName VARCHAR(100) NOT NULL,
+    Gender ENUM('Male', 'Female', 'Other') NOT NULL,
+    Age INT,
+    Contact_Add VARCHAR(255),
+    Admin_Email VARCHAR(100) NOT NULL UNIQUE,
+    Admin_Pass VARCHAR(100) NOT NULL
+);
+
+-- Table for Purchases (Recording internal sales transactions)
+CREATE TABLE Purchase (
+    Purchase_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Med_ID INT NOT NULL,
+    Quantity INT NOT NULL,
+    Unit_Price DECIMAL(10,2) NOT NULL,
+    Total_Amount DECIMAL(10,2) NOT NULL,
+    Date DATE NOT NULL DEFAULT CURRENT_DATE,
+    Pharmacist_ID INT NOT NULL,
+    FOREIGN KEY (Med_ID) REFERENCES Medicine(Med_ID),
+    FOREIGN KEY (Pharmacist_ID) REFERENCES Pharmacist(Pharmacist_ID)
+);
+
+-- Table for Sales (Finalized sale summary)
+CREATE TABLE Sales (
+    Sale_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Sale_Date DATE NOT NULL DEFAULT CURRENT_DATE,
+    Total_Sale_Amount DECIMAL(10,2) NOT NULL,
+    Pharmacist_ID INT NOT NULL,
+    Purchase_ID INT NOT NULL,
+    Discount_Type ENUM('None', 'Senior Citizen', 'PWD') DEFAULT 'None',
+    Discount_Amount DECIMAL(10,2) DEFAULT 0.00,
+    FOREIGN KEY (Pharmacist_ID) REFERENCES Pharmacist(Pharmacist_ID),
+    FOREIGN KEY (Purchase_ID) REFERENCES Purchase(Purchase_ID)
+);
+
+------------------------------------------------------------------------------------
+INSERT INTO admin (Username, Password)
+VALUES ('admin1', SHA2('Pass123', 256));
+
+INSERT INTO admin (Username, Password)
+VALUES ('admin2', 'securePass123');
+
