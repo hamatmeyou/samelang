@@ -1,0 +1,134 @@
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.exe.config
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.exe
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.pdb
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.AssemblyReference.cache
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmMainMenu.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Properties.Resources.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Form1.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.GenerateResource.cache
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.exe
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.pdb
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmAddMedicine.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Form5.resources
+C:\Users\lysa\OneDrive\Desktop\MERCURY SYSTEM\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmsellmedicine.resources
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.exe.config
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.exe
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\bin\Debug\MERCURY SYSTEM.pdb
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmAddMedicine.resources
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Form5.resources
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmMainMenu.resources
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Properties.Resources.resources
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.frmsellmedicine.resources
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY_SYSTEM.Form1.resources
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.exe
+C:\Users\Administrator\Documents\Final-project-sisig\MERCURY SYSTEM\obj\Debug\MERCURY SYSTEM.pdb
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY SYSTEM.csproj.AssemblyReference.cache
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY_SYSTEM.frmAddMedicine.resources
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY_SYSTEM.Form5.resources
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY_SYSTEM.frmMainMenu.resources
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY_SYSTEM.Properties.Resources.resources
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY_SYSTEM.frmsellmedicine.resources
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY_SYSTEM.Form1.resources
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY SYSTEM.csproj.GenerateResource.cache
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY SYSTEM.exe
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY SYSTEM.pdb
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\MERCURY SYSTEM.exe.config
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\MERCURY SYSTEM.exe
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\MERCURY SYSTEM.pdb
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Google.Protobuf.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\MySql.Data.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\MySqlConnector.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Buffers.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.IO.Pipelines.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Memory.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\ZstdSharp.dll
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Google.Protobuf.pdb
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Google.Protobuf.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\MySql.Data.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\MySqlConnector.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Buffers.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.IO.Pipelines.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Memory.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matt\Downloads\MercurySystem-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\matt\Downloads\MercurySystem-main\obj\Debug\MERCURY .A3531AF3.Up2Date
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\MERCURY SYSTEM.exe.config
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\MERCURY SYSTEM.exe
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\MERCURY SYSTEM.pdb
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\MySqlConnector.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Memory.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\ZstdSharp.dll
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\MySqlConnector.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Memory.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY_SYSTEM.frmAddMedicine.resources
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY_SYSTEM.Form5.resources
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY_SYSTEM.frmMainMenu.resources
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY_SYSTEM.Properties.Resources.resources
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY_SYSTEM.frmSellMedicine.resources
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY_SYSTEM.Form1.resources
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY SYSTEM.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY .A3531AF3.Up2Date
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY SYSTEM.exe
+C:\Users\Administrator\source\repos\hamatmeyou\FINAL-PA-COMMIT-\obj\Debug\MERCURY SYSTEM.pdb
